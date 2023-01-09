@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudo JavaScript Vue.js
+- 🌱 Desenvolvedor Front-end
 - 📫 Contate-me no email: eliasbragga44@gmail.com
 - 😄 Pronouns: ele/dele
 
