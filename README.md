@@ -23,7 +23,7 @@
   <img align="center" alt="Elias-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Elias-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Elias-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/59/74/d0/5974d04323d9efbaf170c72cfdb07b44.jpg">
+  <img align="right" alt="Elias-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQFE2-w9c8wrVg/profile-displayphoto-shrink_800_800/0/1655054953377?e=1683763200&v=beta&t=gIy30CjmHz0YxC239aXK2WSYUa0Lfpc6bkVwnnFHvP8">
 </div>
   
   ##
