@@ -16,7 +16,7 @@
   <img align="center" alt="Elias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Elias-cypress" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png">
-    <img align="center" alt="Elias-cypress" height="30" width="70" src="https://st2.depositphotos.com/17714924/48133/v/450/depositphotos_481330802-stock-illustration-scrum-icon-simple-creative-element.jpg">
+    <img align="center" alt="Elias-cypress" height="30" width="40" src="https://st2.depositphotos.com/17714924/48133/v/450/depositphotos_481330802-stock-illustration-scrum-icon-simple-creative-element.jpg">
   <img align="center" alt="Elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
