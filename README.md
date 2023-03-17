@@ -24,7 +24,7 @@
   <img align="center" alt="Elias-Vuetify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
   <img align="center" alt="Elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Elias-pic" height="150" style="border-radius:50px;" src="https://media.licdn.com/dms/image/C4E03AQFE2-w9c8wrVg/profile-displayphoto-shrink_800_800/0/1655054953377?e=1683763200&v=beta&t=gIy30CjmHz0YxC239aXK2WSYUa0Lfpc6bkVwnnFHvP8">
-     ![Snake animation](https://github.com/eliasbragga/eliasbragga/blob/output/github-contribution-grid-snake.svg)
+     
 </div>
   
   ##
@@ -34,6 +34,7 @@
   <a href="https://www.instagram.com/bragga_elias/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eliasbragga44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elias-braga-069144172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  ![Snake animation](https://github.com/eliasbragga/eliasbragga/blob/output/github-contribution-grid-snake.svg)
   
   
 </div>
